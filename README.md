@@ -17,69 +17,34 @@
   <tr>
     <td>GaCloud</td>
     <td>速度快，原生IP支持奈飞非自制剧</td>
-    <td><a href="https://bit.ly/3zKwXqS" target="_blank">https://bit.ly/3zKwXqS</a></td>
+    <td><a href="https://invitation.gacloud.ltd/auth/register?code=U0BQ" target="_blank">http://dlj.bz/Ov03zN</a></td>
     <td>SS/V2ray/SSR</td>
   </tr>
   <tr>
     <td>萌新云</td>
     <td>有免费试用</td>
-    <td><a href="https://bit.ly/3g0hham" target="_blank">https://bit.ly/3g0hham</a></td>
+    <td><a href="https://www.mxssr.xyz/auth/register?code=Ql9U" target="_blank">http://dlj.bz/fajo6e</a></td>
     <td>V2ray</td>
   </tr>
   <tr>
     <td>极客云</td>
     <td>实惠</td>
-    <td><a href="https://bit.ly/3tTPgbX" target="_blank">https://bit.ly/3tTPgbX</a></td>
+    <td><a href="https://jike.ph/auth/register?code=YmOv" target="_blank">http://dlj.bz/gR41JC</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>速鹰666</td>
     <td>实惠</td>
-    <td><a href="https://bit.ly/36QJYEZ" target="_blank">https://bit.ly/36QJYEZ</a></td>
+    <td><a href="https://suying00.com/auth/register?code=mclu" target="_blank">http://dlj.bz/KWUNZ6</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>VeePN</td>
     <td>无限流量，价格低</td>
-    <td><a href="https://bit.ly/2KCK0Fl" target="_blank">https://bit.ly/2KCK0Fl</a></td>
+    <td><a href="https://veepn.com/zh/refer-friend/ve-2dapf1bcy/" target="_blank">http://dlj.bz/NrqKMK</a></td>
     <td>VPN一键连接</td>
   </tr>
-  <tr>
-    <td>Flyint飞数</td>
-    <td>速度快，按量购买</td>
-    <td><a href="https://bit.ly/3lVyhPR" target="_blank">https://bit.ly/3lVyhPR</a></td>
-    <td>SS</td>
-  </tr>
-  <tr>
-    <td>XIXI</td>
-    <td>实惠</td>
-    <td><a href="https://bit.ly/3kJzjNz" target="_blank">https://bit.ly/3kJzjNz</a></td>
-    <td>SSR和V2ray</td>
-  </tr>
-  <tr>
-    <td>追风岛</td>
-    <td>价格低，流量超多</td>
-    <td><a href="https://bit.ly/32UbJuf" target="_blank">https://bit.ly/32UbJuf</a></td>
-    <td>V2Ray</td>
-  </tr>
-  <tr>
-    <td>优云666</td>
-    <td>速度快</td>
-    <td><a href="https://bit.ly/2LeMaLD" target="_blank">https://bit.ly/2LeMaLD</a></td>
-    <td>SSR和V2ray</td>
-  </tr>
-  <tr>
-    <td>桔子云</td>
-    <td>性价比高</td>
-    <td><a href="https://juziyun66.com/auth/register?code=3HN1" target="_blank">https://bit.ly/34qgJaD</a></td>
-    <td>SSR和V2ray</td>
-  </tr>
-  <tr>
-    <td colspan="4">*网址如果打不开请开启“全局模式“翻墙打开。<br>
-    *机场网站有时会更新，请以网站显示信息为准。<br>
-    </td>
-  </tr>
-  <tr>
+ 
     <td colspan="4">翻墙软件下载：<a href="https://github.com/Kejifaxian/welcome/" target="_blank">https://github.com/Kejifaxian/welcome/</a><br>
 机场推荐 Telegram：<a href="https://t.me/kejifenxiang" target="_blank">@kejifenxiang</a></td>
   </tr>
