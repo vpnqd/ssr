@@ -10,8 +10,8 @@
   </tr>
   <tr>
     <td>狗子云</td>
-    <td>速度快，稳定， IPLC节点 </td>
-    <td><a href="https://pwjmtniso4.stcserver-cloud.com/auth/register?code=9wdD" target="_blank">(https://pwjmtniso4.stcserver-cloud.com/auth/register?code=9wdD)</a></td>
+    <td>首次注册送流量，每日签到送流量，永久免费 </td>
+    <td><a href="http://dlj.bz/yiHLdp" target="_blank">https://web.doggo.top/auth/register?code=GPpz</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
