@@ -11,7 +11,7 @@
   <tr>
     <td>狗子云</td>
     <td>速度快，稳定， IPLC节点 </td>
-    <td><a href="https://pwjmtniso4.stcserver-cloud.com/auth/register?code=9wdD" target="_blank">[[https://bit.ly/3L1zNfR](https://web.doggo.top/auth/register?code=GPpz)](https://pwjmtniso4.stcserver-cloud.com/auth/register?code=9wdD)</a></td>
+    <td><a href="https://pwjmtniso4.stcserver-cloud.com/auth/register?code=9wdD" target="_blank">(https://pwjmtniso4.stcserver-cloud.com/auth/register?code=9wdD)</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
