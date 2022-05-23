@@ -22,19 +22,19 @@
   </tr>
   <tr>
     <td>萌新云</td>
-    <td>有免费试用</td>
+    <td>有免费试用,签到送流量</td>
     <td><a href="https://www.mxssr.xyz/auth/register?code=Ql9U" target="_blank">http://dlj.bz/fajo6e</a></td>
     <td>V2ray</td>
   </tr>
   <tr>
     <td>极客云</td>
-    <td>实惠</td>
+    <td>实惠，有免费试用,签到送流量</td>
     <td><a href="https://jike.ph/auth/register?code=YmOv" target="_blank">http://dlj.bz/gR41JC</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>速鹰666</td>
-    <td>实惠</td>
+    <td>实惠，有免费试用,签到送流量</td>
     <td><a href="https://suying00.com/auth/register?code=mclu" target="_blank">http://dlj.bz/KWUNZ6</a></td>
     <td>SSR和V2ray</td>
   </tr>
@@ -45,7 +45,4 @@
     <td>VPN一键连接</td>
   </tr>
  
-    <td colspan="4">翻墙软件下载：<a href="https://github.com/Kejifaxian/welcome/" target="_blank">https://github.com/Kejifaxian/welcome/</a><br>
-机场推荐 Telegram：<a href="https://t.me/kejifenxiang" target="_blank">@kejifenxiang</a></td>
-  </tr>
-</table>
+   
