@@ -9,9 +9,9 @@
     <td width="441" bgcolor="#00CCFF"><strong>机场节点</strong></td>
   </tr>
   <tr>
-    <td>STC</td>
+    <td>狗子云</td>
     <td>速度快，稳定， IPLC节点 </td>
-    <td><a href="https://pwjmtniso4.stcserver-cloud.com/auth/register?code=9wdD" target="_blank">https://bit.ly/3L1zNfR</a></td>
+    <td><a href="[https://pwjmtniso4.stcserver-cloud.com/auth/register?code=9wdD](https://web.doggo.top/auth/register?code=GPpz)" target="_blank">[https://bit.ly/3L1zNfR](https://web.doggo.top/auth/register?code=GPpz)</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
