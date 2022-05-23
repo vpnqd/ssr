@@ -11,7 +11,7 @@
   <tr>
     <td>狗子云</td>
     <td>首次注册送流量，每日签到送流量，永久免费 </td>
-    <td><a href="http://dlj.bz/yiHLdp" target="_blank">https://web.doggo.top/auth/register?code=GPpz</a></td>
+    <td><a href="https://web.doggo.top/auth/register?code=GPpz" target="_blank">http://dlj.bz/yiHLdp</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
